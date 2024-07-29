@@ -1,0 +1,13 @@
+[
+    {
+        "url": "explorer.nmnsc.com:50002",
+        "protocol": "SSL",
+        "disable_cert_verification": false,
+        "contact": [
+            {
+                "discord": "k4man1a"
+            }
+        ],
+        "ws_url": "explorer.nmnsc.com:50004"
+    }
+]
