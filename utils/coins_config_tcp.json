@@ -4743,6 +4743,51 @@
         ],
         "explorer_block_url": "block/"
     },
+    "JUMP": {
+        "coin": "JUMP",
+        "type": "UTXO",
+        "name": "Jumpcoin",
+        "coinpaprika_id": "jump-jumpcoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "_JUMP",
+        "explorer_url": "https://explorer.jumpcoin.net/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Jumpcoin Signed Message:\n",
+        "fname": "Jumpcoin",
+        "isPoS": 1,
+        "rpcport": 31240,
+        "pubtype": 43,
+        "p2shtype": 44,
+        "wiftype": 171,
+        "txfee": 100000,
+        "segwit": true,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "mature_confirmations": 10,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "electrum": [
+            {
+                "url": "explorer.nmnsc.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "discord": "k4man1a"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "BLOCX": {
         "coin": "BLOCX",
         "type": "UTXO",
