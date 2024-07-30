@@ -244,6 +244,7 @@
     "coin": "DEM",
     "name": "deutscheemark",
     "fname": "Deutsche eMark",
+    "txversion": 1,
     "sign_message_prefix": "Deutsche eMark Signed Message:\n",
     "isPoS": 1,
     "rpcport": 4444,
