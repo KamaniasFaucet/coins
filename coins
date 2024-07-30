@@ -456,6 +456,25 @@
     },
     "derivation_path": "m/44'/966'"
   },
+    {
+    "coin": "SFL-PLG20",
+    "name": "sfl_plg20",
+    "fname": "Sunflower Land",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 137,
+    "decimals": 18,
+    "avg_blocktime": 1.8,
+    "required_confirmations": 20,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "MATIC",
+        "contract_address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05"
+      }
+    },
+    "derivation_path": "m/44'/966'"
+  },
   {
     "coin": "DASH",
     "name": "dashcore",
