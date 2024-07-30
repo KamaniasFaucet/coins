@@ -177,7 +177,7 @@
       "type": "ERC20",
       "protocol_data": {
         "platform": "ETH",
-        "contract_address": "0x022e31acfe36234013aa2f287985f9ef43f4751f"
+        "contract_address": "0x022E31aCFe36234013Aa2f287985f9ef43f4751f"
       }
     },
     "derivation_path": "m/44'/60'"
