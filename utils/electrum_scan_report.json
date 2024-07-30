@@ -10,43 +10,43 @@
         "electrums_working_wss": 4,
         "tcp": {
             "electrum3.cipig.net:10055": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "ssl": {
             "bch.imaginary.cash:50002": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "bch.soul-dev.com:50002": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "cashnode.bch.ninja:50002": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:20055": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "bch.imaginary.cash:50004": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "bch.soul-dev.com:50004": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "cashnode.bch.ninja:50004": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:30055": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
@@ -62,43 +62,43 @@
         "electrums_working_wss": 3,
         "tcp": {
             "electrum1.cipig.net:10000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:10000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:10000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "ssl": {
             "electrum1.cipig.net:20000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:20000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:20000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "electrum1.cipig.net:30000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:30000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:30000": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
@@ -114,43 +114,43 @@
         "electrums_working_wss": 3,
         "tcp": {
             "electrum1.cipig.net:10061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:10061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:10061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "ssl": {
             "electrum1.cipig.net:20061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:20061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:20061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "electrum1.cipig.net:30061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:30061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:30061": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
@@ -166,43 +166,43 @@
         "electrums_working_wss": 3,
         "tcp": {
             "electrum1.cipig.net:10060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:10060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:10060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "ssl": {
             "electrum1.cipig.net:20060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:20060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:20060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "electrum1.cipig.net:30060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:30060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:30060": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
@@ -219,13 +219,13 @@
         "tcp": {},
         "ssl": {
             "explorer.nmnsc.com:50002": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "explorer.nmnsc.com:50004": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
@@ -241,43 +241,43 @@
         "electrums_working_wss": 3,
         "tcp": {
             "electrum1.cipig.net:10063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:10063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:10063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "ssl": {
             "electrum1.cipig.net:20063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:20063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:20063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "electrum1.cipig.net:30063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:30063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:30063": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
@@ -293,7 +293,7 @@
         "electrums_working_wss": 1,
         "tcp": {
             "electrum01.chainster.org:50001": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum02.chainster.org:50001": {
@@ -304,7 +304,7 @@
         "ssl": {},
         "wss": {
             "electrum01.chainster.org:50003": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum02.chainster.org:50003": {
@@ -324,43 +324,43 @@
         "electrums_working_wss": 3,
         "tcp": {
             "electrum1.cipig.net:10050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:10050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:10050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "ssl": {
             "electrum1.cipig.net:20050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:20050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:20050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         },
         "wss": {
             "electrum1.cipig.net:30050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum2.cipig.net:30050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             },
             "electrum3.cipig.net:30050": {
-                "last_connection": 1722299761,
+                "last_connection": 1722300556,
                 "result": "Passed"
             }
         }
