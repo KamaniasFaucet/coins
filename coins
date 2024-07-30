@@ -164,6 +164,25 @@
     "derivation_path": "m/44'/60'"
   },
   {
+    "coin": "ADA20-ERC20",
+    "name": "ada20_erc20",
+    "fname": "Cardano20",
+    "rpcport": 80,
+    "mm2": 1,
+    "chain_id": 1,
+    "decimals": 8,
+    "avg_blocktime": 15,
+    "required_confirmations": 3,
+    "protocol": {
+      "type": "ERC20",
+      "protocol_data": {
+        "platform": "ETH",
+        "contract_address": "0x022e31acfe36234013aa2f287985f9ef43f4751f"
+      }
+    },
+    "derivation_path": "m/44'/60'"
+  },
+  {
     "coin": "BCH-BEP20",
     "name": "bch_bep20",
     "fname": "Bitcoin Cash",
