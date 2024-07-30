@@ -240,6 +240,26 @@
       "type": "UTXO"
     }
   },
+   {
+    "coin": "DEM",
+    "name": "deutscheemark",
+    "fname": "Deutsche eMark",
+    "sign_message_prefix": "Deutsche eMark Signed Message:\n",
+    "isPoS": 1,
+    "rpcport": 4444,
+    "pubtype": 53,
+    "p2shtype": 30,
+    "wiftype": 181,
+    "txfee": 100000,
+    "segwit": true,
+    "mm2": 1,
+    "required_confirmations": 10,
+    "mature_confirmations": 15,
+    "avg_blocktime": 60,
+    "protocol": {
+      "type": "UTXO"
+    }
+  },
   {
     "coin": "BNB",
     "name": "binancesmartchain",
