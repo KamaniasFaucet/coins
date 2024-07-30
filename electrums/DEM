@@ -1,8 +1,6 @@
 [
     {
-        "url": "electrum1.deutsche-emark.com:50002",
-        "protocol": "SSL",
-        "disable_cert_verification": false,
+        "url": "electrum1.deutsche-emark.com:50001",
         "contact": [
             {
                 "discord": "k4man1a"
@@ -11,9 +9,7 @@
         "ws_url": "electrum1.deutsche-emark.com:50004"
     },
     {
-        "url": "electrum2.deutsche-emark.com:50002",
-        "protocol": "SSL",
-        "disable_cert_verification": false,
+        "url": "electrum2.deutsche-emark.com:50001",
         "contact": [
             {
                 "discord": "k4man1a"
