@@ -818,7 +818,7 @@
         },
         "electrum": [
             {
-                "url": "electrum2.deutsche-emark.com:50001",
+                "url": "electrum1.deutsche-emark.com:50001",
                 "contact": [
                     {
                         "discord": "k4man1a"
@@ -827,13 +827,24 @@
                 "protocol": "TCP"
             },
             {
-                "url": "electrum2.deutsche-emark.com:50004",
+                "url": "electrum1.deutsche-emark.com:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
                 "contact": [
                     {
                         "discord": "k4man1a"
                     }
-                ],
-                "protocol": "WSS"
+                ]
+            },
+            {
+                "url": "electrum1.deutsche-emark.com:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "discord": "k4man1a"
+                    }
+                ]
             }
         ],
         "explorer_block_url": "block.dws?"
