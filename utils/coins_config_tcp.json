@@ -617,6 +617,51 @@
         ],
         "explorer_block_url": "block/"
     },
+    "GALE": {
+        "coin": "GALE",
+        "type": "UTXO",
+        "name": "Galleoncoin",
+        "coinpaprika_id": "gale-galleoncoin",
+        "coingecko_id": "",
+        "livecoinwatch_id": "GALE",
+        "explorer_url": "https://explorer.galleoncoin.org/",
+        "explorer_tx_url": "",
+        "explorer_address_url": "",
+        "supported": [],
+        "active": false,
+        "is_testnet": false,
+        "currently_enabled": false,
+        "wallet_only": false,
+        "sign_message_prefix": "Galleoncoin Signed Message:\n",
+        "fname": "Galleoncoin",
+        "isPoS": 1,
+        "rpcport": 46973,
+        "pubtype": 0,
+        "p2shtype": 1,
+        "wiftype": 128,
+        "txfee": 100000,
+        "segwit": true,
+        "mm2": 1,
+        "required_confirmations": 5,
+        "mature_confirmations": 10,
+        "avg_blocktime": 60,
+        "protocol": {
+            "type": "UTXO"
+        },
+        "electrum": [
+            {
+                "url": "explorer.nmnsc.com:40002",
+                "protocol": "SSL",
+                "disable_cert_verification": false,
+                "contact": [
+                    {
+                        "discord": "k4man1a"
+                    }
+                ]
+            }
+        ],
+        "explorer_block_url": "block/"
+    },
     "ANEY": {
         "coin": "ANEY",
         "type": "UTXO",
@@ -696,16 +741,6 @@
             "type": "UTXO"
         },
         "electrum": [
-            {
-                "url": "electrum1.deutsche-emark.com:50002",
-                "protocol": "SSL",
-                "disable_cert_verification": false,
-                "contact": [
-                    {
-                        "discord": "k4man1a"
-                    }
-                ]
-            },
             {
                 "url": "electrum1.deutsche-emark.com:50001",
                 "contact": [
